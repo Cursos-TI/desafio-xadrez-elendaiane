@@ -22,7 +22,7 @@ int main() {
     {
         printf("Esquerda %d\n", rainha);
     }
-    // movendo a rainha 8 casas para a Direita
+    // movendo a rainha 8 casas para a ESQUERDA
 
 
 
